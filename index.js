@@ -29,4 +29,4 @@ client.once('ready', async () => {
     }
 });
 
-client.login('MTU1NTQzMzM2YjYyNTcxNDI2OA.GN3Kjg.9IVpm613h1lJ4G3kMLj4klj-Api1oyKw6dUDH0');
+client.login('MTU1NTQzMzA3MjYyNTcxNzI2OA.Gx3hIO.ExMjw-puEEjsfROLRSAYg3e7HNTcqvYPlnxJlg');
